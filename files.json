@@ -1,0 +1,9 @@
+{
+    "files": [
+      {
+        "name": "Large Dataset",
+        "id": "123abc",
+        "description": "Sample dataset (10 GB)"
+      }
+    ]
+  }
